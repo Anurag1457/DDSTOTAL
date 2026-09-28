@@ -14,7 +14,7 @@ export const SITE_CONFIG = {
   googleFormDirectLink: "https://forms.google.com",
 
   contact: {
-    phone: "+91 98765 43210",
+    phone: "+91 94524 51104",
     email: "contact@ddstotal.com",
     address: "Suite 402, Financial Tower, Business Bay",
     workingHours: "Mon - Sat: 9:00 AM - 7:00 PM"
